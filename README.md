@@ -13,3 +13,6 @@
 ### Rollback to previous deployment
 
 `envoy run deployment_rollback`
+
+## Versions
+v1.0.0 - Release
