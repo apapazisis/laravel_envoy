@@ -1,7 +1,7 @@
 @servers(['dev' => 'dev-server', 'local' => '127.0.0.1'])
 
 @setup
-    $repos = 'git@bitbucket.org:apapazisis/handel-rel2.git';
+    $repos = 'git@bitbucket.org:test/mytest.git';
 
     $app_path = '/var/www/handel-rel2';
     $releases_dir = $app_path . '/releases';
